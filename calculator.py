@@ -1,3 +1,4 @@
+print("Hi!")
 print("Select an operation to perform: ")
 
 print("1. ADD")
